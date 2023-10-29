@@ -8,7 +8,7 @@ AccountSchema.js: This file defines the schema for user accounts, including deta
 CartSchema.js: Here, you'll find the schema to represent the user's shopping cart, which includes the products added by the user, quantities, and other relevant details.
 
 ProductSchema.js: This file contains the schema to represent the products available in the E-Commerce store, including attributes like product name, description, price, and availability.
-
+ 
 Routes
 AllProduct.js: This route handles requests related to retrieving all available products in the E-Commerce store.
 
