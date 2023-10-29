@@ -11,7 +11,7 @@ ProductSchema.js: This file contains the schema to represent the products availa
  
 Routes
 AllProduct.js: This route handles requests related to retrieving all available products in the E-Commerce store.
-
+ 
 CartRoute.js: The CartRoute manages operations related to the user's shopping cart, such as adding products, updating quantities, and removing items. 
 
 Login.js: This route allows users to log in, validating their credentials against the AccountSchema.
